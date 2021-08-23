@@ -1,0 +1,200 @@
+C:\Users\User\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Properties.Resources.resources
+C:\Users\User\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csprojAssemblyReference.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocal.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.MDIPrincipal.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Properties.Resources.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.GenerateResource.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe.config
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.pdb
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.pdb
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.pdb
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.pdb
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CopyComplete
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.pdb
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmUsuario.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLogin.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmEmpleado.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorInvActivo.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmSeleccionarInventario.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorPrincipal.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorRealizadoInventario.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvActivos.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvDetalle.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorMostrarTrabajadores.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorRegistrarTrabajador.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\stdole.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Reportes.ReporteInventario.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocalSelect.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteProductos.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteUsuario.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroCategoria.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroDetalleInventario.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroLocalcs.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteEmpleado.resources
+C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FormInventario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe.config
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\EnvDTE.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\stdole.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csprojAssemblyReference.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FormInventario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvActivos.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvDetalle.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorMostrarTrabajadores.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorPrincipal.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorRegistrarTrabajador.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmEmpleado.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocal.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocalSelect.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLogin.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmSeleccionarInventario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorInvActivo.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorRealizadoInventario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmUsuario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.MDIPrincipal.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Properties.Resources.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroCategoria.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroDetalleInventario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroLocalcs.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteEmpleado.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Reportes.ReporteInventario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteProductos.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteUsuario.resources
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.GenerateResource.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.compiled
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CoreCompileInputs.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CopyComplete
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.pdb
