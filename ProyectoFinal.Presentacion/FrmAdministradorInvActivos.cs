@@ -172,5 +172,95 @@ namespace ProyectoFinal.Presentacion
                 dgvGrilla.Columns[0].Visible = false; //columna de seleccion
             }
         }
+
+        private void btnActivarInventario_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                DialogResult opcion;
+                opcion = MessageBox.Show("Esta seguro de Activar el(los) registros(s)", "Sistema ABC", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (opcion == DialogResult.OK)
+                {
+                    int codigo;
+                    string Rpta = "";
+
+                    foreach (DataGridViewRow row in dgvGrilla.Rows)
+                    {
+                        if (Convert.ToBoolean(row.Cells[0].Value))
+                        {
+                            codigo = Convert.ToInt32(row.Cells[1].Value);
+                            Rpta = ClsProductoNegocio.Activar(codigo);
+
+                            if (Rpta == "OK se activar el inventario del producto")
+                            {
+                                this.MensajeCorrecto("Se a Activado" + Convert.ToString(row.Cells[1].Value));
+                            }
+                            else
+                            {
+                                this.MensajeError(Rpta);
+
+                            }
+                        }
+                    }
+                }
+                this.listarGrilla();
+                this.combo();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
+
+        private void bunifuButton1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                DialogResult opcion;
+                opcion = MessageBox.Show("Esta seguro de Desactivar el(los) registros(s)", "Sistema ABC", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (opcion == DialogResult.OK)
+                {
+                    int codigo;
+                    string Rpta = "";
+
+                    foreach (DataGridViewRow row in dgvGrilla.Rows)
+                    {
+                        if (Convert.ToBoolean(row.Cells[0].Value))
+                        {
+                            codigo = Convert.ToInt32(row.Cells[1].Value);
+                            Rpta = ClsProductoNegocio.Desactivar(codigo);
+
+                            if (Rpta == "OK se desactivo el inventario del producto")
+                            {
+                                this.MensajeCorrecto("Se a Desactivado" + Convert.ToString(row.Cells[1].Value));
+                            }
+                            else
+                            {
+                                this.MensajeError(Rpta);
+
+                            }
+                        }
+                    }
+                }
+                this.listarGrilla();
+                this.combo();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
+
+        private void btnRegresar_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorPrincipal MDI = new FrmAdministradorPrincipal();
+            MDI.Show();
+            this.Hide();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

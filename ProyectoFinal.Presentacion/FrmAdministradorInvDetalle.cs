@@ -66,5 +66,17 @@ namespace ProyectoFinal.Presentacion
         {
             listarGrilla();
         }
+
+        private void btnRegresar_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorPrincipal MDI = new FrmAdministradorPrincipal();
+            MDI.Show();
+            this.Hide();
+        }
+
+        private void btnRealizarPedidos_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("Se a comunicado su pedido", "Sistema de almacen", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

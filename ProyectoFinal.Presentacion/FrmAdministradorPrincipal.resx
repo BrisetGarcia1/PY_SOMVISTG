@@ -120,4 +120,33 @@
   <metadata name="Seleccionar.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnMostrarInvDetalle.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAOUAAAAzCAYAAABors8kAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADCSURBVHhe7dOhEYAwAMDATgSbtPsfYzAAHB7fiBevojOO
+        ta5zrQfY7/tx/AVgH1NCjCkhxpQQY0qIMSXEmBJiTAkxpoQYU0KMKSHGlBBjSogxJcSYEmJMCTGmhBhT
+        QowpIcaUEGNKiDElxJgSYkwJMaaEGFNCjCkhxpQQY0qIMSXEmBJiTAkxpoQYU0KMKSHGlBBjSogxJcSY
+        EmJMCTGmhBhTQowpIcaUEGNKiDElxJgSYkwJMaaEmHHOef8FYIM57xdGZP4OodawvwAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="btnMostrarInvActivos.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAM0AAAAzCAYAAAA0JIwAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAC3SURBVHhe7dOxDcMwAMAwX1R/Yv+PnJEDUnR3EWjnwEmz
+        xmfva+79AO9+v4xTAP4zDUSmgcg0EJkGItNAZBqITAORaSAyDUSmgcg0EJkGItNAZBqITAORaSAyDUSm
+        gcg0EJkGItNAZBqITAORaSAyDUSmgcg0EJkGItNAZBqITAORaSAyDUSmgcg0EJkGItNAZBqITAORaSAy
+        DUSmgcg0EJkGItNAZBqITAORaSAac637FICDte4vR2tmNugfS94AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnMostrarTrabajadores.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAKoAAAAzCAYAAAAHH5MJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAC2SURBVHhe7dIxDYAwAADBKgInrf8gAwEQdgT0kxtu+vXH
+        sdZ1rvXArr5Hx1+A3RiVBKOSYFQSjEqCUUkwKglGJcGoJBiVBKOSYFQSjEqCUUkwKglGJcGoJBiVBKOS
+        YFQSjEqCUUkwKglGJcGoJBiVBKOSYFQSjEqCUUkwKglGJcGoJBiVBKOSYFQSjEqCUUkwKglGJcGoJBiV
+        BKOSYFQSjEqCUUkwKglGJcGoJIxzzvsvwDbmvF96CN4HxhzkBwAAAABJRU5ErkJggg==
+</value>
+  </data>
 </root>

@@ -36,12 +36,12 @@ namespace ProyectoFinal.Presentacion
             this.Hide();
         }
 
-        private void cmbLocales_SelectedIndexChanged(object sender, EventArgs e)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
-
+            Dispose();
         }
 
-        private void btnAcceder_Click_1(object sender, EventArgs e)
+        private void btnAcceder_Click(object sender, EventArgs e)
         {
             try
             {
@@ -63,9 +63,37 @@ namespace ProyectoFinal.Presentacion
             }
         }
 
-        private void btnCancelar_Click_1(object sender, EventArgs e)
+        private void btnCerrar_Click(object sender, EventArgs e)
         {
-            Dispose();
+           // Application.Exit();
+            this.Dispose();
+        }
+
+        private void btnMinimizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void btnAcceder_Click_2(object sender, EventArgs e)
+        {
+            try
+            {
+                DataTable tablaLocal = new DataTable();
+                tablaLocal = ClsLocalNegocio.Listar();
+                clocal = cmbLocales.GetItemText(cmbLocales.SelectedItem);
+                if (tablaLocal.Rows.Count <= 0)
+                {
+                    MessageBox.Show("El usuario no existe BD", "Acceso al sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                else
+                {
+                    this.valores();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

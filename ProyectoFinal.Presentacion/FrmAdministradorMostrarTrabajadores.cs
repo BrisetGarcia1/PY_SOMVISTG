@@ -134,5 +134,58 @@ namespace ProyectoFinal.Presentacion
                 dgvGrilla1.Columns[0].Visible = false; 
             }
         }
+
+        private void btnRegresar_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorPrincipal MDI = new FrmAdministradorPrincipal();
+            MDI.Show();
+            this.Hide();
+        }
+
+        private void btnAgregarTrabajador_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorRegistrarTrabajador MDI = new FrmAdministradorRegistrarTrabajador();
+            MDI.Show();
+            this.Hide();
+        }
+
+        private void btnQuitarTrabajador_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                DialogResult opcion;
+                opcion = MessageBox.Show("Esta seguro de eliminar el(los) registros(s)", "Sistema ABC", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (opcion == DialogResult.OK)
+                {
+                    int codigo;
+                    string Rpta = "";
+
+                    foreach (DataGridViewRow row in dgvGrilla1.Rows)
+                    {
+                        if (Convert.ToBoolean(row.Cells[0].Value))
+                        {
+                            codigo = Convert.ToInt32(row.Cells[1].Value);
+                            Rpta = ClsEmpleadoNegocio.Eliminar(codigo);
+
+
+                            if (Rpta == "OK se Elimino")
+                            {
+                                this.MensajeCorrecto("Se a eliminado" + Convert.ToString(row.Cells[1].Value));
+                            }
+                            else
+                            {
+                                this.MensajeError(Rpta);
+
+                            }
+                        }
+                    }
+                }
+                this.listarGrilla();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
     }
 }

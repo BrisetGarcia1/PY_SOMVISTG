@@ -250,5 +250,140 @@ namespace ProyectoFinal.Presentacion
         {
 
         }
+
+        private void btnBuscar_Click_1(object sender, EventArgs e)
+        {
+            this.Buscar();
+        }
+
+        private void btnEliminar_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                DialogResult opcion;
+                opcion = MessageBox.Show("Esta seguro de eliminar el(los) registros(s)", "Sistema de Almacen - Administrador ", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (opcion == DialogResult.OK)
+                {
+                    int codigo;
+                    string Rpta = "";
+
+                    foreach (DataGridViewRow row in dgvGrilla.Rows)
+                    {
+                        if (Convert.ToBoolean(row.Cells[0].Value))
+                        {
+                            codigo = Convert.ToInt32(row.Cells[1].Value);
+                            Rpta = ClsLocalNegocio.Eliminar(codigo);
+
+
+                            if (Rpta == "OK se Elimino")
+                            {
+                                this.MensajeCorrecto("Se a eliminado" + Convert.ToString(row.Cells[1].Value));
+                            }
+                            else
+                            {
+                                this.MensajeError(Rpta);
+
+                            }
+                        }
+                    }
+                }
+                this.listarGrilla();
+                chkSeleccionar.Checked = false;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
+
+        private void txtDireccion_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTelefono_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Limpiar();
+            this.Visualizar();
+            tabControl1.SelectedIndex = 0;
+        }
+
+        private void btnGrabar_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                string Rpta = "";
+                if (txtNombre.Text == string.Empty)
+                {
+                    this.MensajeError("Falta completar datos de algun campo..");
+                    //control error
+                    errorAlerta.SetError(txtNombre, "Ingrese nombre del semestre");
+                }
+                else
+                {
+                    Rpta = ClsLocalNegocio.Insertar(txtNombre.Text.Trim(), txtDireccion.Text, txtTelefono.Text);
+                    if (Rpta.Equals("OK se inserto en el registra"))
+                    {
+                        this.MensajeCorrecto("Se inserto correctamente el registro BD");
+                        this.Limpiar();
+                        this.Visualizar();
+                        this.listarGrilla();
+                    }
+                    else
+                    {
+                        this.MensajeError(Rpta);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
+
+        private void btnActualizar_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                string Rpta = "";
+                if (txtNombre.Text == string.Empty)
+                {
+                    this.MensajeError("Falta completar datos de algun campo..");
+                    //control error
+                    errorAlerta.SetError(txtNombre, "Ingrese nombre del semestre");
+                }
+                else
+                {
+                    Rpta = ClsLocalNegocio.Actualizar(Convert.ToInt32(txtID.Text), txtNombre.Text.Trim(), txtDireccion.Text, txtTelefono.Text);
+                    if (Rpta.Equals("OK RESGITRO SE ACTUALIZO"))
+                    {
+                        this.MensajeCorrecto("Se Actualizo correctamente el registro BD");
+                        this.Limpiar();
+                        this.Visualizar();
+                        this.listarGrilla();
+                    }
+                    else
+                    {
+                        this.MensajeError(Rpta);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
+
+        private void btnCancelarA_Click_1(object sender, EventArgs e)
+        {
+            this.Limpiar();
+            this.Visualizar();
+            tabControl1.SelectedIndex = 0;
+        }
     }
 }

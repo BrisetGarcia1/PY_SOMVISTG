@@ -120,4 +120,32 @@
   <metadata name="errorAlerta.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnRegistrar.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAH0AAAA0CAYAAACn1zeBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACkSURBVHhe7dExAYBAEMCw13T+JQAGkIEAQAAKaIZMHbvm
+        mHP2uYl4f6/PwK+ZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6
+        kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZHmR6kOlBpgeZ
+        HrRmm+sr8FPbXA+KLY2au4r0zAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="bunifuButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAH0AAAA0CAYAAACn1zeBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACnSURBVHhe7dGxCYAwAADBbCkEVxbsHSMDKMEx7ouD73/c
+        x/Fc5/nGsH+PHe8YQezfTcc0HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNB
+        TQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0UNNBTQc1HdR0
+        UNNBTQf90+dcO4KYc32MTU70m+tGXwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btnRegresar.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAH8AAAA0CAYAAACjIue8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACkSURBVHhe7dExEYAwAMDAKgInrf9DBgLg2KuA/PBTxoxj
+        retc66Hl+z52gQbzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wP
+        Mz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDz
+        w8Y5570L/Nyc9wtW/1zd6xFe2QAAAABJRU5ErkJggg==
+</value>
+  </data>
 </root>

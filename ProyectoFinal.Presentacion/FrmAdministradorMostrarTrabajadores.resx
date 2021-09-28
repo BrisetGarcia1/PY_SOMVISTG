@@ -120,7 +120,31 @@
   <metadata name="Seleccionar.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="Seleccionar.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnQuitarTrabajador.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJkAAAAzCAYAAACE26oyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACvSURBVHhe7dKhEYAwAMDATgSbtPsfYzAAHL6SuBevYjOO
+        ta5zrQcK319jF+BPJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNn
+        MnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNn
+        MnImI2cyciYjZzJy45zz3gX4xZz3CxvQx8lD/vtrAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btnAgregarTrabajador.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJkAAAAzCAYAAACE26oyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACvSURBVHhe7dKhEYAwAMDATgSbtPsfYzAAHL6SuBevYjOO
+        ta5zrQcK319jF+BPJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNn
+        MnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNnMnImI2cyciYjZzJyJiNn
+        MnImI2cyciYjZzJy45zz3gX4xZz3CxvQx8lD/vtrAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btnRegresar.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAH8AAAAjCAYAAAC98dWfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB+SURBVHhe7dExEYAwAMDAKgInrf9DBgLg2KuA/PBTxoxj
+        retc66Hl+z52gQbzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wPMz/M/DDzw8wP
+        Mz/M/DDzw8wPMz/M/DDzw8wPMz/M/LBxznnvAj835/0CosY0iIdJa5MAAAAASUVORK5CYII=
+</value>
+  </data>
 </root>

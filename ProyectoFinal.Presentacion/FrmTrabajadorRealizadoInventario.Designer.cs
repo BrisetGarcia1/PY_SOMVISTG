@@ -39,9 +39,10 @@ namespace ProyectoFinal.Presentacion
             // 
             // btnRegresar
             // 
-            this.btnRegresar.Location = new System.Drawing.Point(225, 358);
+            this.btnRegresar.Location = new System.Drawing.Point(300, 441);
+            this.btnRegresar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnRegresar.Name = "btnRegresar";
-            this.btnRegresar.Size = new System.Drawing.Size(91, 56);
+            this.btnRegresar.Size = new System.Drawing.Size(121, 69);
             this.btnRegresar.TabIndex = 36;
             this.btnRegresar.Text = "Regresar";
             this.btnRegresar.UseVisualStyleBackColor = true;
@@ -53,9 +54,10 @@ namespace ProyectoFinal.Presentacion
             this.lblTrabajador.BackColor = System.Drawing.Color.Transparent;
             this.lblTrabajador.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTrabajador.ForeColor = System.Drawing.Color.Maroon;
-            this.lblTrabajador.Location = new System.Drawing.Point(34, 93);
+            this.lblTrabajador.Location = new System.Drawing.Point(45, 114);
+            this.lblTrabajador.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTrabajador.Name = "lblTrabajador";
-            this.lblTrabajador.Size = new System.Drawing.Size(149, 16);
+            this.lblTrabajador.Size = new System.Drawing.Size(176, 20);
             this.lblTrabajador.TabIndex = 33;
             this.lblTrabajador.Text = "Nombre Trabajador:";
             // 
@@ -65,9 +67,10 @@ namespace ProyectoFinal.Presentacion
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(161, 40);
+            this.label1.Location = new System.Drawing.Point(215, 49);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(228, 25);
+            this.label1.Size = new System.Drawing.Size(282, 31);
             this.label1.TabIndex = 32;
             this.label1.Text = "Realizado Inventario";
             // 
@@ -77,28 +80,34 @@ namespace ProyectoFinal.Presentacion
             this.dgvGrilla.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvGrilla.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Seleccionar});
-            this.dgvGrilla.Location = new System.Drawing.Point(37, 126);
+            this.dgvGrilla.Location = new System.Drawing.Point(49, 155);
+            this.dgvGrilla.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dgvGrilla.Name = "dgvGrilla";
             this.dgvGrilla.ReadOnly = true;
-            this.dgvGrilla.Size = new System.Drawing.Size(501, 204);
+            this.dgvGrilla.RowHeadersWidth = 51;
+            this.dgvGrilla.Size = new System.Drawing.Size(668, 251);
             this.dgvGrilla.TabIndex = 37;
             // 
             // Seleccionar
             // 
             this.Seleccionar.HeaderText = "Seleccionar";
+            this.Seleccionar.MinimumWidth = 6;
             this.Seleccionar.Name = "Seleccionar";
             this.Seleccionar.ReadOnly = true;
+            this.Seleccionar.Width = 125;
             // 
             // FrmTrabajadorRealizadoInventario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ProyectoFinal.Presentacion.Properties.Resources.cube_426204_1280;
-            this.ClientSize = new System.Drawing.Size(563, 450);
+            this.BackgroundImage = global::ProyectoFinal.Presentacion.Properties.Resources._4812d3cc80cd265ffab17b38b20b9eb3;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(751, 554);
             this.Controls.Add(this.dgvGrilla);
             this.Controls.Add(this.btnRegresar);
             this.Controls.Add(this.lblTrabajador);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmTrabajadorRealizadoInventario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmTrabajadorRealizadoInventario";

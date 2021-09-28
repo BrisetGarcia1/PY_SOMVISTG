@@ -100,6 +100,338 @@ C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\P
 C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroLocalcs.resources
 C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteEmpleado.resources
 C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FormInventario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe.config
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\stdole.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FormInventario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvActivos.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvDetalle.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorMostrarTrabajadores.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorPrincipal.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorRegistrarTrabajador.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmEmpleado.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocal.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocalSelect.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLogin.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmSeleccionarInventario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorInvActivo.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorRealizadoInventario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmUsuario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.MDIPrincipal.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Properties.Resources.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroCategoria.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroDetalleInventario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroLocalcs.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteEmpleado.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Reportes.ReporteInventario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteProductos.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteUsuario.resources
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.GenerateResource.cache
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CopyComplete
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.pdb
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Solrac\Documents\Proyecto\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe.licenses
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe.config
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.pdb
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Charts.WinForms.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Dataviz.WinForms.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Licensing.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\EnvDTE.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\stdole.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.MSXML.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.pdb
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Charts.WinForms.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Dataviz.WinForms.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.pdb
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.pdb
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csprojAssemblyReference.cache
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FormInventario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvActivos.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorInvDetalle.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorMostrarTrabajadores.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorPrincipal.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmAdministradorRegistrarTrabajador.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmEmpleado.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocal.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLocalSelect.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmLogin.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmSeleccionarInventario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorInvActivo.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmTrabajadorRealizadoInventario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.FrmUsuario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.MDIPrincipal.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Properties.Resources.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroCategoria.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroDetalleInventario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.RegistroLocalcs.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteEmpleado.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.Reportes.ReporteInventario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteProductos.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteUsuario.resources
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.GenerateResource.cache
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe.licenses
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.cache
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.compiled
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CoreCompileInputs.cache
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CopyComplete
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe
+F:\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.pdb
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
@@ -107,6 +439,41 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacio
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe.config
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.exe
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Presentacion.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Licensing.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
@@ -125,6 +492,39 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacio
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Microsoft.MSXML.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Negocio.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.AccesoDatos.pdb
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\ProyectoFinal.Entidad.pdb
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
@@ -192,6 +592,7 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacio
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteProductos.resources
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.ReporteUsuario.resources
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.GenerateResource.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.exe.licenses
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.cache
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\RdlCompile.compiled
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Presentacion\obj\Debug\ProyectoFinal.Presentacion.csproj.CoreCompileInputs.cache

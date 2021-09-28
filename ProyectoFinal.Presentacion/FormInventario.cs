@@ -122,35 +122,35 @@ namespace ProyectoFinal.Presentacion
 
         private void btnActualizar_Click(object sender, EventArgs e)
         {
-            try
-            {
-                string Rpta = "";
-                if (txtID.Text == string.Empty)
-                {
-                    this.MensajeError("Falta completar datos de algun campo..");
-                    //control error
-                    errorAlerta.SetError(txtID, " Ingrese nombre del Empleado");
-                }
-                else
-                {
-                    Rpta = ClsInventarioNegocio.Actualizar(Convert.ToInt32(txtID.Text), Convert.ToInt32(txtIdProducto.Text), Convert.ToInt32(txtStock.Text), Convert.ToInt32(txtStockFisico.Text), Convert.ToInt32(txtDiferencia.Text), Convert.ToInt32(txtStockSalida.Text), txtEstado.Text);
-                    if (Rpta.Equals("OK se inserto en el registra"))
-                    {
-                        this.MensajeCorrecto("Se inserto correctamente el registro BD");
-                        this.Limpiar();
-                        this.Visualizar();
-                        this.listarGrilla();
-                    }
-                    else
-                    {
-                        this.MensajeError(Rpta);
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message + ex.StackTrace);
-            }
+            //try
+            //{
+            //    string Rpta = "";
+            //    if (txtID.Text == string.Empty)
+            //    {
+            //        this.MensajeError("Falta completar datos de algun campo..");
+            //        //control error
+            //        errorAlerta.SetError(txtID, " Ingrese nombre del Empleado");
+            //    }
+            //    else
+            //    {
+            //        Rpta = ClsInventarioNegocio.Actualizar(Convert.ToInt32(txtID.Text), Convert.ToInt32(txtIdProducto.Text), Convert.ToInt32(txtStock.Text), Convert.ToInt32(txtStockFisico.Text), Convert.ToInt32(txtDiferencia.Text), Convert.ToInt32(txtStockSalida.Text), txtEstado.Text);
+            //        if (Rpta.Equals("OK se inserto en el registra"))
+            //        {
+            //            this.MensajeCorrecto("Se inserto correctamente el registro BD");
+            //            this.Limpiar();
+            //            this.Visualizar();
+            //            this.listarGrilla();
+            //        }
+            //        else
+            //        {
+            //            this.MensajeError(Rpta);
+            //        }
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show(ex.Message + ex.StackTrace);
+            //}
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
@@ -211,6 +211,96 @@ namespace ProyectoFinal.Presentacion
             else
             {
                 dgvGrilla.Columns[0].Visible = false;
+            }
+        }
+
+        private void btnBuscar_Click_1(object sender, EventArgs e)
+        {
+            this.Buscar();
+        }
+
+        private void btnEliminar_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                DialogResult opcion;
+                opcion = MessageBox.Show("Esta seguro de eliminar el(los) registros(s)", "Sistema de Almacen - Administrador ", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (opcion == DialogResult.OK)
+                {
+                    int codigo;
+                    string Rpta = "";
+
+                    foreach (DataGridViewRow row in dgvGrilla.Rows)
+                    {
+                        if (Convert.ToBoolean(row.Cells[0].Value))
+                        {
+                            codigo = Convert.ToInt32(row.Cells[1].Value);
+                            Rpta = ClsLocalNegocio.Eliminar(codigo);
+
+
+                            if (Rpta == "OK se Elimino")
+                            {
+                                this.MensajeCorrecto("Se a eliminado" + Convert.ToString(row.Cells[1].Value));
+                            }
+                            else
+                            {
+                                this.MensajeError(Rpta);
+
+                            }
+                        }
+                    }
+                }
+                this.listarGrilla();
+                chkSeleccionar.Checked = false;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
+            }
+        }
+
+        private void txtBusqueda_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCancelarA_Click_1(object sender, EventArgs e)
+        {
+            this.Limpiar();
+            this.Visualizar();
+            tabControl1.SelectedIndex = 0;
+        }
+
+        private void btnActualizar_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                string Rpta = "";
+                if (txtID.Text == string.Empty)
+                {
+                    this.MensajeError("Falta completar datos de algun campo..");
+                    //control error
+                    errorAlerta.SetError(txtID, " Ingrese nombre del Empleado");
+                }
+                else
+                {
+                    Rpta = ClsInventarioNegocio.Actualizar(Convert.ToInt32(txtID.Text), Convert.ToInt32(txtIdProducto.Text), Convert.ToInt32(txtStock.Text), Convert.ToInt32(txtStockFisico.Text), Convert.ToInt32(txtDiferencia.Text), Convert.ToInt32(txtStockSalida.Text), txtEstado.Text);
+                    if (Rpta.Equals("OK se inserto en el registra"))
+                    {
+                        this.MensajeCorrecto("Se inserto correctamente el registro BD");
+                        this.Limpiar();
+                        this.Visualizar();
+                        this.listarGrilla();
+                    }
+                    else
+                    {
+                        this.MensajeError(Rpta);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace);
             }
         }
     }

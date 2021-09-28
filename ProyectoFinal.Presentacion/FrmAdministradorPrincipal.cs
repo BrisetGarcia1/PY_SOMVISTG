@@ -81,5 +81,26 @@ namespace ProyectoFinal.Presentacion
             MDI.Show();
             this.Hide();
         }
+
+        private void btnMostrarTrabajadores_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorMostrarTrabajadores MDI = new FrmAdministradorMostrarTrabajadores();
+            MDI.Show();
+            this.Hide();
+        }
+
+        private void btnMostrarInvActivos_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorInvActivos MDI = new FrmAdministradorInvActivos();
+            MDI.Show();
+            this.Hide();
+        }
+
+        private void btnMostrarInvDetalle_Click_1(object sender, EventArgs e)
+        {
+            FrmAdministradorInvActivos MDI = new FrmAdministradorInvActivos();
+            MDI.Show();
+            this.Hide();
+        }
     }
 }
