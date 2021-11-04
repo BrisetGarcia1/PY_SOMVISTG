@@ -21,8 +21,7 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\bin
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\bin\Debug\ProyectoFinal.Entidad.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\bin\Debug\ProyectoFinal.AccesoDatos.pdb
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\bin\Debug\ProyectoFinal.Entidad.pdb
-D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.csprojAssemblyReference.cache
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.csproj.CoreCompileInputs.cache
-D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.csproj.CopyComplete
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.csproj.AssemblyReference.cache

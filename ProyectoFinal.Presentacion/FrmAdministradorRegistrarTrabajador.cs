@@ -129,7 +129,7 @@ namespace ProyectoFinal.Presentacion
                         valor = btn.Rows[0]["id_empleado"].ToString();
                         ClsUsuarioNegocio.Insertar(Convert.ToInt32(valor), txtUser.Text, txtPassword1.Text);
 
-                        if (Rpta.Equals("OK se inserto en el registra"))
+                        if (Rpta.Equals("OK se inserto en el registro"))
                         {
                             this.MensajeCorrecto("Se inserto correctamente el registro BD");
                             this.Limpiar();

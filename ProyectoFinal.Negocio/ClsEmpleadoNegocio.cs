@@ -32,7 +32,7 @@ namespace ProyectoFinal.Negocio
             string verificar = objEmpleado.Verificar(nombre);
             if (verificar.Equals("1"))
             {
-                return "El Local ya existe e la BD";
+                return "El Trabajador ya existe en la BD";
             }
             else
             {

@@ -4,3 +4,9 @@ C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\Proyec
 C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csproj.CoreCompileInputs.cache
 C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.dll
 C:\Users\frank\source\repos\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Entidad\bin\Debug\ProyectoFinal.Entidad.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Entidad\bin\Debug\ProyectoFinal.Entidad.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csproj.CoreCompileInputs.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.dll
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Entidad\obj\Debug\ProyectoFinal.Entidad.csproj.AssemblyReference.cache

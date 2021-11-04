@@ -93,7 +93,7 @@ namespace ProyectoFinal.AccesoDatos
                 comando.Parameters.Add("@ptelefono", SqlDbType.VarChar).Value = objEmpleado.celular;
                 comando.Parameters.Add("@ptipo", SqlDbType.VarChar).Value = objEmpleado.Tipo;
                 sqlCnx.Open();
-                respuesta = comando.ExecuteNonQuery() == 1 ? "OK se inserto en el registra" : "No se pudo insertar registro";
+                respuesta = comando.ExecuteNonQuery() == 1 ? "OK se inserto en el registro" : "No se pudo insertar registro";
             }
             catch (Exception ex)
             {
@@ -117,7 +117,7 @@ namespace ProyectoFinal.AccesoDatos
             try
             {
                 sqlCnx = ClsConexion.getInstancia().EstablecerConexion();
-                SqlCommand comando = new SqlCommand("SP_Usuario_Actualizar", sqlCnx);
+                SqlCommand comando = new SqlCommand("SP_Empleado_Actualizar", sqlCnx);
                 comando.CommandType = CommandType.StoredProcedure;
                 comando.Parameters.Add("@pidempleado", SqlDbType.Int).Value = objEmpleado.id_Empleado;
                 comando.Parameters.Add("@pnombre", SqlDbType.VarChar).Value = objEmpleado.Nombre;

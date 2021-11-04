@@ -119,7 +119,7 @@ namespace ProyectoFinal.AccesoDatos
             try
             {
                 sqlCnx = ClsConexion.getInstancia().EstablecerConexion();
-                SqlCommand comando = new SqlCommand("SP_Producto__Actualizar", sqlCnx);
+                SqlCommand comando = new SqlCommand("SP_Producto_Actualizar", sqlCnx);
                 comando.CommandType = CommandType.StoredProcedure;
                 comando.Parameters.Add("@pidproducto", SqlDbType.Int).Value = objProducto.id_Producto;
                 comando.Parameters.Add("@pidcategoria", SqlDbType.Int).Value = objProducto.id_categoria;

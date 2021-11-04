@@ -153,7 +153,7 @@ namespace ProyectoFinal.AccesoDatos
             try
             {
                 sqlCnx = ClsConexion.getInstancia().EstablecerConexion();
-                SqlCommand comando = new SqlCommand("SP_Producto_Eliminar", sqlCnx);
+                SqlCommand comando = new SqlCommand("SP_Inventario_Eliminar", sqlCnx);
                 comando.CommandType = CommandType.StoredProcedure;
                 comando.Parameters.Add("@pidempleado", SqlDbType.Int).Value = id;
                 sqlCnx.Open();

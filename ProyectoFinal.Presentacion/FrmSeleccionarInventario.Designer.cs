@@ -41,10 +41,9 @@ namespace ProyectoFinal.Presentacion
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(176, 437);
-            this.btnSalir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSalir.Location = new System.Drawing.Point(132, 355);
             this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(121, 69);
+            this.btnSalir.Size = new System.Drawing.Size(91, 56);
             this.btnSalir.TabIndex = 37;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
@@ -52,10 +51,9 @@ namespace ProyectoFinal.Presentacion
             // 
             // btnSiguiente
             // 
-            this.btnSiguiente.Location = new System.Drawing.Point(176, 326);
-            this.btnSiguiente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSiguiente.Location = new System.Drawing.Point(132, 265);
             this.btnSiguiente.Name = "btnSiguiente";
-            this.btnSiguiente.Size = new System.Drawing.Size(121, 69);
+            this.btnSiguiente.Size = new System.Drawing.Size(91, 56);
             this.btnSiguiente.TabIndex = 36;
             this.btnSiguiente.Text = "Siguiente";
             this.btnSiguiente.UseVisualStyleBackColor = true;
@@ -64,13 +62,12 @@ namespace ProyectoFinal.Presentacion
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.BackColor = System.Drawing.Color.PeachPuff;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(43, 41);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.ForeColor = System.Drawing.Color.Maroon;
+            this.label1.Location = new System.Drawing.Point(32, 33);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(336, 31);
+            this.label1.Size = new System.Drawing.Size(273, 25);
             this.label1.TabIndex = 31;
             this.label1.Text = "Seleccionar el Inventario";
             // 
@@ -81,55 +78,51 @@ namespace ProyectoFinal.Presentacion
             this.cmbTipo.Items.AddRange(new object[] {
             "Salida",
             "Entrada"});
-            this.cmbTipo.Location = new System.Drawing.Point(143, 238);
-            this.cmbTipo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbTipo.Location = new System.Drawing.Point(107, 193);
             this.cmbTipo.Name = "cmbTipo";
-            this.cmbTipo.Size = new System.Drawing.Size(169, 24);
+            this.cmbTipo.Size = new System.Drawing.Size(128, 21);
             this.cmbTipo.TabIndex = 43;
             // 
             // cmbInvActivos
             // 
             this.cmbInvActivos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.cmbInvActivos.FormattingEnabled = true;
-            this.cmbInvActivos.Location = new System.Drawing.Point(52, 154);
-            this.cmbInvActivos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbInvActivos.Location = new System.Drawing.Point(39, 125);
             this.cmbInvActivos.Name = "cmbInvActivos";
-            this.cmbInvActivos.Size = new System.Drawing.Size(388, 24);
+            this.cmbInvActivos.Size = new System.Drawing.Size(292, 21);
             this.cmbInvActivos.TabIndex = 42;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.BackColor = System.Drawing.Color.PeachPuff;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Maroon;
-            this.label3.Location = new System.Drawing.Point(139, 199);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(104, 162);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(150, 20);
+            this.label3.Size = new System.Drawing.Size(127, 16);
             this.label3.TabIndex = 41;
             this.label3.Text = "Seleccionar Tipo";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.BackColor = System.Drawing.Color.PeachPuff;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Maroon;
-            this.label2.Location = new System.Drawing.Point(139, 116);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(104, 94);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(169, 20);
+            this.label2.Size = new System.Drawing.Size(139, 16);
             this.label2.TabIndex = 40;
             this.label2.Text = "Inventarios Activos";
             // 
             // FrmSeleccionarInventario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(459, 554);
+            this.ClientSize = new System.Drawing.Size(344, 450);
             this.Controls.Add(this.cmbTipo);
             this.Controls.Add(this.cmbInvActivos);
             this.Controls.Add(this.label3);
@@ -138,7 +131,6 @@ namespace ProyectoFinal.Presentacion
             this.Controls.Add(this.btnSiguiente);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmSeleccionarInventario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmSeleccionarInventario";

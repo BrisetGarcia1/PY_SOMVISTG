@@ -11,8 +11,7 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\bin\Debug\ProyectoFinal.AccesoDatos.pdb
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\bin\Debug\ProyectoFinal.Entidad.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\bin\Debug\ProyectoFinal.Entidad.pdb
-D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\obj\Debug\ProyectoFinal.AccesoDatos.csprojAssemblyReference.cache
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\obj\Debug\ProyectoFinal.AccesoDatos.csproj.CoreCompileInputs.cache
-D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\obj\Debug\ProyectoFinal.AccesoDatos.csproj.CopyComplete
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\obj\Debug\ProyectoFinal.AccesoDatos.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\obj\Debug\ProyectoFinal.AccesoDatos.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.AccesoDatos\obj\Debug\ProyectoFinal.AccesoDatos.csproj.AssemblyReference.cache
