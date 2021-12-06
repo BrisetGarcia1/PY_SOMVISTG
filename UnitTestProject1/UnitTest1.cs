@@ -45,23 +45,23 @@ namespace UnitTestProject1
 
 
 
-        [TestMethod]
+       // [TestMethod]
         //Se envia los datos del trabajador (nombre, apellidos, dni, celular y tipo ), si es correcto debera de devolver una mensaje
         //de confirmacion del registro
-        public void RegistrarTrabajadorTest()
-        {
-            // intanciar 
-            ClsEmpleadoDatos objEmpleado = new ClsEmpleadoDatos();
-            ClsEmpleadoEntidad objEmpleadoE = new ClsEmpleadoEntidad();
-            objEmpleadoE.Nombre = "Alexander";
-            objEmpleadoE.Apellido = "Huallpa Huaychani";
-            objEmpleadoE.DNI = "76593212";
-            objEmpleadoE.celular = "998675432";
-            objEmpleadoE.Tipo = "Supervisor";
-            String rpta = objEmpleado.Insertar(objEmpleadoE);
-            Assert.AreEqual(rpta, "OK se inserto en el registro");
+        //public void RegistrarTrabajadorTest()
+        //{
+        //    // intanciar 
+        //    ClsEmpleadoDatos objEmpleado = new ClsEmpleadoDatos();
+        //    ClsEmpleadoEntidad objEmpleadoE = new ClsEmpleadoEntidad();
+        //    objEmpleadoE.Nombre = "Alexander";
+        //    objEmpleadoE.Apellido = "Huallpa Huaychani";
+        //    objEmpleadoE.DNI = "76593212";
+        //    objEmpleadoE.celular = "998675432";
+        //    objEmpleadoE.Tipo = "Supervisor";
+        //    String rpta = objEmpleado.Insertar(objEmpleadoE);
+        //    Assert.AreEqual(rpta, "OK se inserto en el registro");
 
-        }
+        //}
 
 
 
@@ -174,19 +174,19 @@ namespace UnitTestProject1
 
 
 
-        [TestMethod]
-        public void EliminarProducto()
-        {
-            // Creamos una varible de Tipo String
-            String resultado = "";
-            // Asignamos un id para nuestra producto a Eliminar
-            //debemos de tener en cuenta que para poder eliminarlo no debe haber dependencias 
-            int id = 7;
-            // LLamamos a nuestro procedimiento Eliminar de Producto y le pasamos el id
-            resultado = ClsProductoNegocio.Eliminar(id);
-            // Luego probamos las condiciones 
-            Assert.AreEqual(resultado, "OK se Elimino");
-        }
+        //[TestMethod]
+        //public void EliminarProducto()
+        //{
+        //    // Creamos una varible de Tipo String
+        //    String resultado = "";
+        //    // Asignamos un id para nuestra producto a Eliminar
+        //    //debemos de tener en cuenta que para poder eliminarlo no debe haber dependencias 
+        //    int id = 7;
+        //    // LLamamos a nuestro procedimiento Eliminar de Producto y le pasamos el id
+        //    resultado = ClsProductoNegocio.Eliminar(id);
+        //    // Luego probamos las condiciones 
+        //    Assert.AreEqual(resultado, "OK se Elimino");
+        //}
 
 
 
@@ -260,33 +260,33 @@ namespace UnitTestProject1
         }
 
 
-        [TestMethod]
-        public void EliminarCategoria()
-        {
-            // Creamos una varible de Tipo String
-            String resultado = "";
-            // Asignamos un id para nuestra categoria a Eliminar
-            int id = 6;
-            // LLamamos a nuestro procedimiento Eliminar de Categoria y le pasamos el id
-            resultado = ClsCategoriaNegocio.Eliminar(id);
-            // Luego probamos las condiciones, en caso sea exitoso se eliminara de nuestra bd
-            Assert.AreEqual(resultado, "OK se Elimino");
-        }
+        //[TestMethod]
+        //public void EliminarCategoria()
+        //{
+        //    // Creamos una varible de Tipo String
+        //    String resultado = "";
+        //    // Asignamos un id para nuestra categoria a Eliminar
+        //    int id = 6;
+        //    // LLamamos a nuestro procedimiento Eliminar de Categoria y le pasamos el id
+        //    resultado = ClsCategoriaNegocio.Eliminar(id);
+        //    // Luego probamos las condiciones, en caso sea exitoso se eliminara de nuestra bd
+        //    Assert.AreEqual(resultado, "OK se Elimino");
+        //}
 
 
 
-        [TestMethod]
-        public void EliminarEmpleado()
-        {
-            // Creamos una varible de Tipo String
-            String resultado = "";
-            // Asignamos un id para nuestro Empleado para Eliminar
-            int id = 22;
-            // LLamamos a nuestro procedimiento Eliminar de Empleado y le pasamos el id
-            resultado = ClsEmpleadoNegocio.Eliminar(id);
-            // Luego probamos las condiciones, en caso sea exitoso se eliminara de nuestra base de datos
-            Assert.AreEqual(resultado, "OK se Elimino");
-        }
+        //[TestMethod]
+        //public void EliminarEmpleado()
+        //{
+        //    // Creamos una varible de Tipo String
+        //    String resultado = "";
+        //    // Asignamos un id para nuestro Empleado para Eliminar
+        //    int id = 22;
+        //    // LLamamos a nuestro procedimiento Eliminar de Empleado y le pasamos el id
+        //    resultado = ClsEmpleadoNegocio.Eliminar(id);
+        //    // Luego probamos las condiciones, en caso sea exitoso se eliminara de nuestra base de datos
+        //    Assert.AreEqual(resultado, "OK se Elimino");
+        //}
 
 
 
