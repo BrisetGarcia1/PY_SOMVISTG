@@ -25,3 +25,4 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.pdb
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.csproj.AssemblyReference.cache
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\ProyectoFinal.Negocio\obj\Debug\ProyectoFinal.Negocio.csproj.CopyComplete

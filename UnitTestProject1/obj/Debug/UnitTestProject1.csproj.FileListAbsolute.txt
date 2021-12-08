@@ -71,3 +71,4 @@ D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\UnitTestProject1\obj\Debu
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\SEMESTRE_2021-II\CALIDAD PRUEBAS SOFT\ProyectoFinal\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
